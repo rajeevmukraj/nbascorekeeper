@@ -70,3 +70,10 @@ button {
 h4 {
     margin-top: 200px;
 }
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
